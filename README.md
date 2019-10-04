@@ -9,6 +9,7 @@
 - taxi round trips (AI?)
 - route to work with three different routes (depending on the goals - fuel, speed)
 - solving a maze
+- bus route optimization (time, cost?)
 
 ## papers to compare to:
 
