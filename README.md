@@ -10,6 +10,7 @@
 - route to work with three different routes (depending on the goals - fuel, speed)
 - solving a maze
 - bus route optimization (time, cost?)
+- River crossing problem
 
 ## papers to compare to:
 
