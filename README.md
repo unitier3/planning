@@ -10,7 +10,7 @@
 - route to work with three different routes (depending on the goals - fuel, speed)
 - solving a maze
 - bus route optimization (time, cost?)
-- River crossing problem, can this be done through nodes?
+- River crossing problem, can this be done through nodes, use of a lmg?
 
 ## papers to compare to:
 - find papers first or algorithm and then find a paper which matches it?
