@@ -12,5 +12,9 @@
 - bus route optimization (time, cost?)
 - River crossing problem, can this be done through nodes, use of a lmg?
 
+# Potentials
+- Tic Tac Toe/Connect 4 using Minimax Algorithm
+
 ## papers to compare to:
-- find papers first or algorithm and then find a paper which matches it?
+- https://pdfs.semanticscholar.org/4109/976fa92f1b1b9a93aef0bb4bd676ae0bee1f.pdf
+- https://medium.com/@omarnyte/functional-minimax-in-clojure-ee5d079820f2
