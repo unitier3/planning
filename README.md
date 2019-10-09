@@ -6,10 +6,11 @@
 - robotic movement with goals/tasks?
 - indiana jones styled time limited, object avoidence map?
 - trash collection, several pick ups, start far or close?
-- taxi round trips (AI?)
+- taxi round trips, multiple locations to meet through several paths
 - route to work with three different routes (depending on the goals - fuel, speed)
 - solving a maze
-- River crossing problem
+- bus route optimization (time, cost?)
+- River crossing problem, can this be done through nodes, use of a lmg?
 
 # Potentials
 - Tic Tac Toe/Connect 4 using Minimax Algorithm
