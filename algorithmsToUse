@@ -3,3 +3,6 @@
   - Greedy best-first search
   - A*             // The A* algorithm was created from the knowledge of the two prior algorithms to meet in the middleground.
   - D*             
+  
+  - papers or posts about these algoriths: 
+    - https://www.cs.cmu.edu/~motionplanning/lecture/AppH-astar-dstar_howie.pdf
