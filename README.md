@@ -33,6 +33,11 @@
   - compare how the algorithms work and which one is more suited for the problem at hand.
   - mabye show where each algorithm is best suited challenge wise and say why it is not get used to its full potential.
 
+Uniform cost search
+Rather than just searching one path for the goal state it checks all other possible paths in case their is a cheaper route to go down.
+- different to dijikstras as it doesnt use a prioritu queue, instead it only uses one source (the start goal) and moves on to a different state but keeping other optional paths open by allowing us to plan the route then go along optimal path 
+
+
 ## papers to compare to:
 - https://pdfs.semanticscholar.org/4109/976fa92f1b1b9a93aef0bb4bd676ae0bee1f.pdf
 - https://medium.com/@omarnyte/functional-minimax-in-clojure-ee5d079820f2
